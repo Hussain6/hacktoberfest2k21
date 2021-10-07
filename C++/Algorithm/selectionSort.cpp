@@ -1,4 +1,4 @@
-//You can get the time complexity by “counting” the number of operations 
+//You can get the time complexity by ï¿½countingï¿½ the number of operations 
 //performed by your code. This time complexity is defined as a function of 
 //the input size n using Big-O notation. n indicates the input size, 
 //while O is the worst-case scenario growth rate function.
